@@ -4,7 +4,8 @@ This organization groups all the repositories linked to the implementation of an
 
 ### TODO
 
-- Explain architecture
+Explain:
+- Architecture
 - How to host it locally
 - How to run it locally
 - How to mix cloud and local
